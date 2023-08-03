@@ -1,3 +1,3 @@
 <pre>
-  Methods of machine computation avoiding subjective bias in analytic solutions to practical and scientific problems.
+  Methods to avoid subjective bias in analytic solutions to practical and scientific problems.
 </pre>
